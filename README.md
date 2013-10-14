@@ -1,5 +1,8 @@
 Ankus
 =====
+
+> NOTE: All the development effort is moved to [cloudwicklabs](https://github.com/cloudwicklabs/ankus)
+
 Ankus is a big-data deployment & orchestration tool. Handles the installation & management of:
 
  - [hadoop](http://hadoop.apache.org/) (hadoop-2.0.0)
